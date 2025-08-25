@@ -9,6 +9,7 @@ Each project is self-contained in a single `.py` file — short, easy to run, an
 
 1. ➗ `math_tutor.py` — Multiplication and arithmetic practice (supports `+`, `-`, `*`, `/`) with a timed score and results summary.  
    **What I learned:** using `random` and `time`, generating integer-safe division questions, and collecting detailed result summaries.
+   ![Math Tutor Demo](math_tutor_demo.png)
 
 2. ☕ `loyalty_points.py` — Loyalty points engine that converts purchases to points and maps totals to Bronze/Silver/Gold tiers.  
    **What I learned:** writing small reusable functions and implementing business logic for tiering.
